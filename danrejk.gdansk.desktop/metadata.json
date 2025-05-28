@@ -1,0 +1,21 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Wiktor Jeryś",
+                "Email": "SDanrejk@gmail.com"
+            }
+        ],
+        "Description": "Custom Gdańsk splash screen.",
+        "Id": "danrejk.gdansk.desktop",
+        "License": "GPLv2+",
+        "Name": "Gdańsk",
+        "Category": "Look and Feel",
+        "Version": "1.0",
+        "Website": "https://github.com/Danrejk/KDE-Plasma-Gdansk-Splash"
+    },
+    "Keywords": "Gdańsk;Splash;Custom;Dark;Fade-in;Logo;Poland;KDE;Plasma;Look and Feel;Startup;Danzig;Danswijk;City;Germany;Tusk;",
+    "X-Plasma-APIVersion": "2",
+    "Preview": "contents/previews/preview.png"
+}
